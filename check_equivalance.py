@@ -18,6 +18,7 @@ R = {(1, 1), (1, 3), (2, 2), (3, 3),(3, 1), (3, 4), (4, 4), (4, 3)} # 정의된 
 from pkg.check_reflexive import *
 from pkg.check_symmetric import *
 from pkg.check_transitive import *
+
 A = {1,2,3,4} # 관계가 정의된 집합
 R = {(1, 1), (1, 3), (2, 2), (3, 3), (3, 1), (3, 4), (4, 4), (4, 3)}  # 정의된 관계
 def check_equivalance(R):
