@@ -23,3 +23,5 @@ def check_reflexive(R):
       s+=1
   if s==len(A):
     return True
+  else:
+    return False
