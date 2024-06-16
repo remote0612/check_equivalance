@@ -32,4 +32,4 @@
 
 #### 4. check_equivalance (동치인지 확인하는 코드)
 * 위의 세 코드의 값을 하나씩 저장한다.
-* 모두 Ture인 경우 Ture 반환, 아니라면 Fasle를 반환한다.
+* 값이 모두 Ture인 경우 Ture 반환, 아니라면 Fasle를 반환한다.
