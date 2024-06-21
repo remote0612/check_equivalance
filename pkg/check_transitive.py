@@ -30,8 +30,6 @@ def check_transitive(R):
     if y1==y2:
       if (x,z) in R:
         lis.append(True)
-      elif (z,x) in R:
-        lis.append(True)
       else:
         lis.append(False)
     x=y2
